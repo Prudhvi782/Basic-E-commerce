@@ -2,7 +2,7 @@ import hr from '../assets/hero.png'
 
 export let products = [
     {
-    id:1 , name:"iphone14" , price:50000 , category:"Mobile",audio:"public/audio/aayasher_bgm.mp3",
+    id:1 , name:"iphone14" , price:50000 , category:"Mobile",audio:"/audio/aayasher_bgm.mp3",
     imgPath:["https://www.mobex.in/cdn/shop/files/61cwywLZR-L._SX679.jpg?v=1739798195&width=1214",
         "https://inspireonline.in/cdn/shop/files/iPhone_14_Blue_PDP_Image_Position-2__WWEN.jpg?v=1691420929&width=823"
     ]},
