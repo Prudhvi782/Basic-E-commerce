@@ -1,0 +1,11 @@
+@keyframes delaying{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.delay{
+    animation:delaying 0.8s linear ;
+}
